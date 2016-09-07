@@ -1,0 +1,32 @@
+\\telmar\users\bj006\my documents\visual studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\bin\Debug\RUSSIAN ROULETTE GAME.exe.config
+\\telmar\users\bj006\my documents\visual studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\bin\Debug\RUSSIAN ROULETTE GAME.exe
+\\telmar\users\bj006\my documents\visual studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\bin\Debug\RUSSIAN ROULETTE GAME.pdb
+\\telmar\users\bj006\my documents\visual studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.csprojResolveAssemblyReference.cache
+\\telmar\users\bj006\my documents\visual studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.frmRussianRoulette.resources
+\\telmar\users\bj006\my documents\visual studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.Properties.Resources.resources
+\\telmar\users\bj006\my documents\visual studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.csproj.GenerateResource.Cache
+\\telmar\users\bj006\my documents\visual studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.exe
+\\telmar\users\bj006\my documents\visual studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.pdb
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.Login.resources
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\bin\Debug\RUSSIAN ROULETTE GAME.exe.config
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.exe
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.pdb
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\bin\Debug\RUSSIAN ROULETTE GAME.exe
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\bin\Debug\RUSSIAN ROULETTE GAME.pdb
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.Login.resources
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.frmRussianRoulette.resources
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.Properties.Resources.resources
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.frmShowScore.resources
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\bin\Debug\RUSSIAN ROULETTE GAME.exe.config
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.exe
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.pdb
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\bin\Debug\RUSSIAN ROULETTE GAME.exe
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\bin\Debug\RUSSIAN ROULETTE GAME.pdb
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.csprojResolveAssemblyReference.cache
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.Login.resources
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.frmRussianRoulette.resources
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.Properties.Resources.resources
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN_ROULETTE_GAME.frmShowScore.resources
+\\telmar\users\BJ006\My Documents\Visual Studio 2015\Projects\Game Bibin Game\RUSSIAN ROULETTE GAME\RUSSIAN ROULETTE GAME\obj\Debug\RUSSIAN ROULETTE GAME.csproj.GenerateResource.Cache
